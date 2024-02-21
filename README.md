@@ -1,6 +1,5 @@
-### Olá, me chamo Tomás Schaefer Borges de Jesus sou desenvolvedor .Net.
-### Atualmente trabalho na AmbevTech como Desenvolvedor Pleno Back-end
-### Fique a vontade para me chamar
+### Olá, me chamo Tomás Schaefer Borges de Jesus sou desenvolvedor .Net
+### Atualmente trabalho na AmbevTech como Desenvolvedor Pleno Back-end.
 
 <div>
   <a href="https://github.com/Tomas-SBJ">
